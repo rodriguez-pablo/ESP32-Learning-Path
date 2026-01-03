@@ -29,6 +29,7 @@ To confirm the configuration is successful, perform a test upload:
 2. Select the board model in `Tools > Board > esp32` (commonly **ESP32 Dev Module**).
 3. Select the active COM port in `Tools > Port`.
 4. Upload the **Blink** example (`File > Examples > 01.Basics > Blink`).
+![ESP32 Cargada](../img/assets/esp32CargadaGIF.mp4)
 
 ---
 
