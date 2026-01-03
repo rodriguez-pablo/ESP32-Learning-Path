@@ -25,6 +25,7 @@ If the USB port is not recognized when connecting the board, you must install th
 ## 4. Connection Verification and First Upload
 To confirm the configuration is successful, perform a test upload:
 1. Connect the ESP32 to your computer.
+![ESP32 Conectada](../img/assets/esp32Sincargar.jpeg)
 2. Select the board model in `Tools > Board > esp32` (commonly **ESP32 Dev Module**).
 3. Select the active COM port in `Tools > Port`.
 4. Upload the **Blink** example (`File > Examples > 01.Basics > Blink`).
