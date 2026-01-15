@@ -1,9 +1,3 @@
-Para que tu repositorio de GitHub luzca profesional y sea fácil de leer para cualquier reclutador o evaluador de certificación, aquí tienes el código en formato Markdown (README.md).
-
-Puedes copiar y pegar esto directamente:
-
-Markdown
-
 # ESP32-Learning-Path
 This repository tracks my progress with ESP32 and IoT development. 
 **Goal:** To acquire and validate advanced technical skills in Embedded Systems and IoT through hands-on project implementation, focusing on hardware-software integration and industrial communication standards.
