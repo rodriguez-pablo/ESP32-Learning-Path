@@ -1,5 +1,6 @@
 # ESP32-Learning-Path
-This repository tracks my progress with ESP32 and IoT development. 
+This repository tracks my progress with ESP32 and IoT development.
+
 **Goal:** To acquire and validate advanced technical skills in Embedded Systems and IoT through hands-on project implementation, focusing on hardware-software integration and industrial communication standards.
 
 ---
